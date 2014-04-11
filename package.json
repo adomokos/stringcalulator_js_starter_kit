@@ -1,0 +1,11 @@
+{
+  "name": "string_calculator_dependencies",
+  "version": "0.0.1",
+  "engines": {
+    "node": "0.10.12"
+  },
+  "dependencies":{
+    "mocha": ">0.10.0",
+    "should": ">=0.5.1"
+  }
+}
